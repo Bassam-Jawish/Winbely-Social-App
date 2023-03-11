@@ -1,16 +1,11 @@
-# chat_app
+# 🔥🔥 Winbely Social Media App 
 
-A new Flutter project.
+A Social media app created with Flutter and Firebase.(inspired from instagram).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Wooble is a fully functional social media app with multiple features built with flutter and dart.
 
-A few resources to get you started if this is your first Flutter project:
+Star⭐ the repo if you like what you see😉.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
