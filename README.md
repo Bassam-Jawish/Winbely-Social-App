@@ -32,4 +32,6 @@ Star ⭐ the repo to support the project.
 
 ## Screenshots
 
+<img src = "screenshots/presentation.png" width = "100" >
 
+![](screenshots/presentation.png)
