@@ -32,7 +32,7 @@ void main() async {
   Bloc.observer = MyBlocObserver();
 
   await Firebase.initializeApp();
-  //FirebaseMessaging.onBackgroundMessage(_firebaseMessagingBackgroundHandler);
+  ///FirebaseMessaging.onBackgroundMessage(_firebaseMessagingBackgroundHandler);
 
 
   await FirebaseMessaging.instance.getInitialMessage();
