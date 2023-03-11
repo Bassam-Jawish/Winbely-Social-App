@@ -32,5 +32,5 @@ Star ⭐ the repo to support the project.
 
 ## Screenshots
 
-<img src = "screenshots/presentation.png" width = "600" height ] "300" >
+<img src = "screenshots/presentation.png" width = "600" height : "300" >
 
