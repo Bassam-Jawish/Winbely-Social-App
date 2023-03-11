@@ -10,5 +10,20 @@ Star ⭐ the repo to support the project.
 
 ## Features
 
-- You can Login and register as a user in this app.
-- 
+- login and register as a user in this app.
+
+- Observing all posts that everyone posts.
+
+- Posing pictures and videos with description.
+
+- Seaching about people and to follow and unfollow them.
+
+- Like posts and add them to favorites page.
+
+- Adding comments to any post.
+
+- Profile Screen to see user information (followes - following - posts).
+
+- Editing user information.
+
+- One to One Chat with any user (Realtime Messaging).
