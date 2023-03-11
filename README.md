@@ -10,7 +10,9 @@ Star ⭐ the repo to support the project.
 
 ## Features
 
-- login and register as a user in this app.
+- Login and register as a user in this app.
+
+- Reset password by your email.
 
 - Observing all posts that everyone posts.
 
@@ -27,3 +29,5 @@ Star ⭐ the repo to support the project.
 - Editing user information.
 
 - One to One Chat with any user (Realtime Messaging).
+
+## Screenshots
