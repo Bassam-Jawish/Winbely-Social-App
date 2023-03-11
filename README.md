@@ -34,3 +34,8 @@ Star ⭐ the repo to support the project.
 
 <img src = "screenshots/presentation.png" width = "850" height = "450" >
 
+<p float="left">
+  <img src="screenshots/Screenshot_20230312_004249_Gallery.jpg" width="100" />
+  <img src="screenshots/Screenshot_20230312_004300_Gallery.jpg" width="100" /> 
+  <img src="screenshots/Screenshot_20230312_004314_Gallery.jpg" width="100" />
+</p>
