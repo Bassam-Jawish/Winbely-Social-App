@@ -291,11 +291,10 @@ class OnlineUsers {
 }
 
 List<OnlineUsers> userOnlineList = [
-  OnlineUsers('Bassam', 'All'),
-  OnlineUsers('Gorage', 'Medicine'),
-  OnlineUsers('Zein', 'Career'),
-  OnlineUsers('Mike', 'Psychology'),
-  OnlineUsers('Dream', 'Family'),
-  OnlineUsers('Hero', 'Management'),
-  OnlineUsers('Peter', 'Others'),
+  OnlineUsers('Gorge', 'assets/images/d1.jpg'),
+  OnlineUsers('Alexander', 'assets/images/d2.jpg'),
+  OnlineUsers('Rachel', 'assets/images/d3.jpg'),
+  OnlineUsers('Sarah', 'assets/images/d4.jpg'),
+  OnlineUsers('Bran', 'assets/images/d5.png'),
+
 ];

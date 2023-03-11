@@ -19,7 +19,6 @@ import 'package:chat_app/themes/theme.dart';
 import 'package:chat_app/ui/screens/control_pages.dart';
 import 'package:chat_app/ui/screens/login.dart';
 import 'package:chat_app/ui/screens/onboarding.dart';
-import 'package:chat_app/ui/screens/splash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
