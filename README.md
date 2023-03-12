@@ -54,12 +54,12 @@ Star ⭐ the repo to support the project.
 
 <p float="left">
   <img src="screenshots/Screenshot_20230312_004532_Gallery.jpg" width="220" height = "450"/>
-  <img src="Screenshot_20230312_004613_Gallery.jpg" width="220" height = "450"/> 
-  <img src="Screenshot_20230312_004613_Gallery.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20230312_004613_Gallery.jpg" width="220" height = "450"/> 
+  <img src="screenshots/Screenshot_20230312_004613_Gallery.jpg" width="220" height = "450"/>
 </p>
 
 <p float="left">
   <img src="screenshots/Screenshot_20230312_004651_Gallery.jpg" width="220" height = "450"/>
-  <img src="screenshots/Screenshot_20230312_004717_Gallery.jpg" width="220" height = "450"/> 
-  <img src="screenshots/Screenshot_20230312_005110.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20230312_005110.jpg" width="220" height = "450"/> 
+  <img src="screenshots/Screenshot_20230312_004717_Gallery.jpg" width="220" height = "450"/>
 </p>
