@@ -1,6 +1,6 @@
 # 🔥🔥 Winbely Social Media App 
 
-A Social media app created with Flutter and Firebase. (inspired from instagram).
+A Social media app, created with Flutter and Firebase. (inspired from instagram).
 
 ## Getting Started
 
