@@ -1,6 +1,6 @@
 # 🔥🔥 Winbely Social Media App 
 
-A Social media app created with Flutter and Firebase.(inspired from instagram).
+A Social media app created with Flutter and Firebase. (inspired from instagram).
 
 ## Getting Started
 
@@ -63,3 +63,10 @@ Star ⭐ the repo to support the project.
   <img src="screenshots/Screenshot_20230312_005110.jpg" width="220" height = "450"/> 
   <img src="screenshots/Screenshot_20230312_004717_Gallery.jpg" width="220" height = "450"/>
 </p>
+
+## Questions?🤔
+
+Hit me on
+
+https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png
+[![LinkedIn](https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png)](https://www.linkedin.com/in/bassam-jawish/)
