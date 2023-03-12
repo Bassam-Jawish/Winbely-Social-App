@@ -69,3 +69,7 @@ Star ⭐ the repo to support the project.
 Hit me on
 
 [![LinkedIn](https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png)](https://www.linkedin.com/in/bassam-jawish/)
+
+## Contributing
+
+Pull requests are welcome.
